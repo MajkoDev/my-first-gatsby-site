@@ -1,6 +1,4 @@
 import * as React from 'react'
-
-// components
 import Layout from '../components/layout'
 
 const AboutPage = () => {
